@@ -6,6 +6,8 @@ Je conçois des infrastructures réseau sécurisées, je teste et corrige les vu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Merciel_Mithimbo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merciel-mithimbo-8abb68330)
 [![FinTech Studieux](https://img.shields.io/badge/Projet-FinTech_Studieux-1F9E9A?style=for-the-badge&logo=laravel&logoColor=white)](https://fintech-studieux.mascodeproduct.com/)
+[![Smart-X Congo](https://img.shields.io/badge/Site-Smart--X_Congo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.smartxcongo.com)
+[![Sentinelle Maison](https://img.shields.io/badge/Projet-Sentinelle_Maison-1F9E9A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sentinelle-maison.onrender.com)
 
 ---
 
@@ -23,7 +25,7 @@ Je conçois des infrastructures réseau sécurisées, je teste et corrige les vu
 | Projet | Ce que j'ai réalisé | Technologies |
 | --- | --- | --- |
 | **[FinTech Studieux](https://github.com/Merciel01/FinTech)** | Plateforme web de scoring commercial et de pilotage de microcrédit pour commerçants : suivi des ventes, score d'activité, demande de crédit et espace d'administration. [Voir en ligne](https://fintech-studieux.mascodeproduct.com/) | Laravel, PHP, Tailwind CSS, Vite |
-| **[Sentinelle Maison](https://github.com/XavierMombimbo/projet_maison_intelligente)** | Plateforme web de maison intelligente avec cybersécurité avancée : la webcam d'un ordinateur devient une caméra de surveillance, avec détection locale de personnes, alertes en temps réel, captures chiffrées et authentification des caméras par jeton signé. Projet de groupe réalisé avec [Xavier Mombimbo](https://github.com/XavierMombimbo). | Python, Django, TensorFlow.js, WebSocket, JWT, AES-GCM |
+| **[Sentinelle Maison](https://github.com/XavierMombimbo/projet_maison_intelligente)** | Plateforme web de maison intelligente avec cybersécurité avancée : la webcam d'un ordinateur devient une caméra de surveillance, avec détection locale de personnes, alertes en temps réel, captures chiffrées et authentification des caméras par jeton signé. Projet de groupe réalisé avec [Xavier Mombimbo](https://github.com/XavierMombimbo). [Voir en ligne](https://sentinelle-maison.onrender.com) | Python, Django, TensorFlow.js, WebSocket, JWT, AES-GCM |
 | **[BruteScope](https://github.com/Merciel01/brute_force_tester_groupe20)** | Projet pédagogique de sécurité : observation d'une attaque par dictionnaire contre un formulaire de connexion, dans un laboratoire Docker local et contrôlé, avec tableau de bord en temps réel. Projet de groupe. | Python, Flask, Docker, Hydra, Nginx |
 | **Infrastructure réseau sécurisée d'entreprise** | Projet de Master 1 : segmentation en 8 VLANs simulée sous GNS3, serveur Nextcloud avec accès SFTP/FTPS, supervision Zabbix, stockage RAID 10, pare-feu nftables, terminaison TLS avec HAProxy et durcissement d'un bastion SSH. | GNS3, nftables, HAProxy, Zabbix, Nextcloud, Linux |
 
@@ -79,4 +81,4 @@ Je conçois des infrastructures réseau sécurisées, je teste et corrige les vu
 
 Je suis intéressé par des projets et des opportunités en réseaux, cybersécurité, administration Linux et développement logiciel.
 
-[LinkedIn](https://www.linkedin.com/in/merciel-mithimbo-8abb68330)
+[LinkedIn](https://www.linkedin.com/in/merciel-mithimbo-8abb68330) · [Smart-X Congo](https://www.smartxcongo.com) · [Sentinelle Maison](https://sentinelle-maison.onrender.com)
